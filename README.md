@@ -1,2 +1,2 @@
-# PTP-SST
-Peer to peer satellite simulation testing
+# IR-SST
+Intensive Routing Satellite Simulation Testing
