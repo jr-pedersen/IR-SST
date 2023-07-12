@@ -1,2 +1,2 @@
 # IR-SST
-Intensive Routing Satellite Simulation Testing
+Intensive Routing-Satellite Simulation Testing
